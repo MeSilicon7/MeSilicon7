@@ -1,18 +1,16 @@
 **Hi, I'm 메헤디, an independent developer**
 
-I've had a strong interest in programming since I was in elementary school. This zeal has only grown as I begin my first year of Electrical and Electronics Engineering (EEE). Python remains my core strength, and my knowledge of frameworks such as Django and Flask demonstrates my deep interest in web development.
+I am a first-year student in Electrical and Electronics Engineering (EEE) with a passion for diving deep into the world of technology and design. My proficiency is rooted in Python and JavaScript, showcasing my versatility in software development. My skills also include expertise in WordPress, highlighting my adaptability across diverse online platforms.
 
-Aside from Python, I'm also proficient in JavaScript, Rust, and PHP, increasing my knowledge of programming languages. My development talents extend to WordPress as well, demonstrating my versatility in online platforms.
+In the domain of design, I've honed my skills in vector graphic design, a testament to my capability of blending aesthetics with functionality. This ensures I consistently deliver user-centric and visually stunning designs.
 
-I have polished my talents in vector graphic design, a tribute to my ability to mix aesthetics with practicality, bringing to life user-centric and visually appealing designs.
+My journey into the vast realm of artificial intelligence has led me towards Machine Learning and Deep Learning, with PyTorch as a cornerstone in my toolkit. This exploration complements my academic pursuits in EEE, providing a unique blend of theory and hands-on implementation.
 
-In the field of artificial intelligence, I am particularly interested in Machine Learning and Deep Learning, which I am exploring with PyTorch, an invaluable tool in my development toolset.
+My computing preferences are powered by Linux-based operating systems, with Ubuntu on my laptop and the sophisticated Fedora gracing my desktop. This choice speaks to my in-depth acquaintance with the Linux environment.
 
-My choices show a penchant for Linux-based operating systems, with Ubuntu powering my laptop and the technologically advanced Fedora running on my desktop. This preference demonstrates my thorough understanding of the Linux ecosystem.
+Embedded systems, especially Arduino and Raspberry Pi, are within my realm of expertise. On the cloud computing frontier, I've garnered experience with AWS and have dedicated considerable time understanding the intricacies of System Design.
 
-I also have hands-on expertise with embedded systems like Arduino and Raspberry Pi. My knowledge also extends to cloud services, having competence with AWS, and I've dug deep into the complexities of System Design.
-
-As I progress through my studies in EEE and the vast world of programming and design, I hope to weave together my diverse abilities and interests. My ambition is to make unique and significant contributions to the ever-changing technology scene.
+As I navigate through my academic journey in EEE and the expansive universe of programming and design, I aim to seamlessly intertwine my diverse skills and interests. My ultimate ambition is to make significant and innovative contributions to the constantly evolving technological landscape.
 
 <!--
 In addition to my technical interests, I also have a sensitive side. I'm fascinated by Korean culture and frequently lose myself in K-Pop and Korean dramas in my spare time. These pursuits give me the ideal outlet for unwinding and serve as a balance to my professionally focused on technology pursuits.
