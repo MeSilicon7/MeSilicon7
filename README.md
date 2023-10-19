@@ -12,14 +12,14 @@ Embedded systems, especially Arduino and Raspberry Pi, are within my realm of ex
 
 As I navigate through my academic journey in EEE and the expansive universe of programming and design, I aim to seamlessly intertwine my diverse skills and interests. My ultimate ambition is to make significant and innovative contributions to the constantly evolving technological landscape.
 
-## My Stack:
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,figma,linux,aws,docker,firebase,supabase,vercel,workers,py,fastapi,flask,graphql,postgres,github,githubactions,js,ts,nextjs,sentry,tailwind,wasm" />
+    <img src="https://skillicons.dev/icons?i=idea,figma,linux,aws,docker,firebase,supabase,vercel,workers,py,fastapi,flask,graphql,postgres,mysql,planetscale,github,githubactions,js,ts,nextjs,sentry,tailwind,wasm" />
   </a>
 </p>
 
-
+<!--
 
 ## Familiar with:
 <p align="center">
@@ -27,7 +27,7 @@ As I navigate through my academic journey in EEE and the expansive universe of p
     <img src="https://skillicons.dev/icons?i=arduino,aws,bash,c,docker,django,figma,firebase,flask,githubactions,graphql,heroku,js,idea,linux,materialui,mysql,nextjs,planetscale,postgres,prisma,py,pytorch,raspberrypi,react,supabase,sentry,selenium,tailwind,tauri,ts,workers,wordpress,wasm" />
   </a>
 </p>
-
+-->
 
 <!--
 In addition to my technical interests, I also have a sensitive side. I'm fascinated by Korean culture and frequently lose myself in K-Pop and Korean dramas in my spare time. These pursuits give me the ideal outlet for unwinding and serve as a balance to my professionally focused on technology pursuits.
