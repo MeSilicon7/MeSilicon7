@@ -12,8 +12,14 @@ Embedded systems, especially Arduino and Raspberry Pi, are within my realm of ex
 
 As I navigate through my academic journey in EEE and the expansive universe of programming and design, I aim to seamlessly intertwine my diverse skills and interests. My ultimate ambition is to make significant and innovative contributions to the constantly evolving technological landscape.
 
+## My Stack:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,bash,docker,figma,firebase,flask,githubactions,graphql,js,idea,linux,nextjs,postgres,py,supabase,sentry,tailwind,ts,workers,fastapi,wasm,vercel" />
+  </a>
+</p>
 
-## Familiar with :
+## Familiar with:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,aws,bash,c,docker,django,figma,firebase,flask,githubactions,graphql,heroku,js,idea,linux,materialui,mysql,nextjs,planetscale,postgres,prisma,py,pytorch,raspberrypi,react,supabase,sentry,selenium,tailwind,tauri,ts,workers,wordpress,wasm" />
