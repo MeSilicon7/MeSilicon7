@@ -15,9 +15,11 @@ As I navigate through my academic journey in EEE and the expansive universe of p
 ## My Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,bash,docker,figma,firebase,flask,githubactions,graphql,js,idea,linux,nextjs,postgres,py,supabase,sentry,tailwind,ts,workers,fastapi,wasm,vercel" />
+    <img src="https://skillicons.dev/icons?i=idea,figma,linux,aws,docker,firebase,supabase,vercel,workers,py,fastapi,flask,graphql,postgres,github,githubactions,js,ts,nextjs,sentry,tailwind,wasm" />
   </a>
 </p>
+
+
 
 ## Familiar with:
 <p align="center">
