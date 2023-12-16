@@ -1,5 +1,5 @@
 **Hi, I'm 메헤디, an independent developer**
-
+<!--
 I am a first-year student in Electrical and Electronics Engineering (EEE) with a passion for diving deep into the world of technology and design. My proficiency is rooted in Python and JavaScript, showcasing my versatility in software development. My skills also include expertise in WordPress, highlighting my adaptability across diverse online platforms.
 
 In the domain of design, I've honed my skills in vector graphic design, a testament to my capability of blending aesthetics with functionality. This ensures I consistently deliver user-centric and visually stunning designs.
@@ -11,7 +11,7 @@ My computing preferences are powered by Linux-based operating systems, with Ubun
 Embedded systems, especially Arduino and Raspberry Pi, are within my realm of expertise. On the cloud computing frontier, I've garnered experience with AWS and have dedicated considerable time understanding the intricacies of System Design.
 
 As I navigate through my academic journey in EEE and the expansive universe of programming and design, I aim to seamlessly intertwine my diverse skills and interests. My ultimate ambition is to make significant and innovative contributions to the constantly evolving technological landscape.
-
+-->
 
 <p align="center">
   <a href="https://skillicons.dev">
