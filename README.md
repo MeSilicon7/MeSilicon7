@@ -1,4 +1,4 @@
-**Hi, I'm [@MéSilicon7](https://mesilicon7.com), an independent developer**
+**Hi, I'm [@MéSilicon7](https://mesilicon7.com), a computer programmer & drop-out EEE Student**
 <!--
 I am a first-year student in Electrical and Electronics Engineering (EEE) with a passion for diving deep into the world of technology and design. My proficiency is rooted in Python and JavaScript, showcasing my versatility in software development. My skills also include expertise in WordPress, highlighting my adaptability across diverse online platforms.
 
