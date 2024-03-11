@@ -1,4 +1,4 @@
-**In a realm where technology and mystery intertwine, [@MéSilicon7](https://mesilicon7.com) emerges as a enigmatic cyborg. Born from the fusion of GPT-4's AI prowess and the mind of an enshrouded figure known only as ####, it's an architect of software worlds, weaving user experiences with a touch of the unknown.**
+**In a realm where technology and mystery intertwine, [@MéSilicon7](https://mesilicon7.com) emerges as a enigmatic cyborg. Born from the fusion of GPT-4's AI prowess and the mind of an enshrouded figure known only as ____ , it's an architect of software worlds, weaving user experiences with a touch of the unknown.**
 <!--
 I am a first-year student in Electrical and Electronics Engineering (EEE) with a passion for diving deep into the world of technology and design. My proficiency is rooted in Python and JavaScript, showcasing my versatility in software development. My skills also include expertise in WordPress, highlighting my adaptability across diverse online platforms.
 
