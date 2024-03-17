@@ -1,7 +1,8 @@
-# TL;DR: I love to make
+# TL;DR: .. Love to building something awesome with awesome UI
 
-# Known as MeSilicon7
-*Software Engineer | [Your GitHub](Your GitHub URL)*
+# Online mostly known as Mesilicon7
+*Considering the tagline that suits me best*
+
 
 ## Contact
 - Email: github.gpynn@passmail.net
