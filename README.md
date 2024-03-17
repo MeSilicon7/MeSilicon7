@@ -7,7 +7,7 @@ In a realm where technology and mystery intertwine, @MéSilicon7 emerges as a en
 
 ## Contact
 - Email: github.gpynn@passmail.net
-- Signal: [mesilicon.07](https://signal.com)
+- Signal: [mesilicon.07](https://signal.me/#eu/m0C/KxMtsKygm1DFsHkny1MRq+AzL1IVa17whxNBnqsGkDu2jgRJKIt35cdwmMCi)
 - LinkedIn: [linkedin.com/in/mesilicon7](https://linkedin.com/in/mesilicon7L)
 - Portfolio: [portfolio.mesilicon7.com](https://portfolio.mesilicon7.com)
 
