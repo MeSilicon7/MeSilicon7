@@ -1,4 +1,4 @@
-<u>TL;DR: .. I'm passionate about creating remarkable applications with stunning user interfaces. I thrive on designing engaging, user-centric experiences that blend functionality with aesthetic excellence.</u>
+*TL;DR: .. I'm passionate about creating remarkable applications with stunning user interfaces. I thrive on designing engaging, user-centric experiences that blend functionality with aesthetic excellence.*
 
 # Online mostly known as Mesilicon7
 *Considering the tagline that suits me best. Btw I like this one (Below)*
